@@ -1,3 +1,4 @@
 function change() {
-    // your code goes here
+    let titleClassName = document.querySelector(".titleClassName");
+    titleClassName.style.color = "blue";
 }
