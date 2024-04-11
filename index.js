@@ -1,3 +1,4 @@
 function change() {
-    // your code goes here
+    let titleName = document.querySelector(".titleName");
+    console.log(titleName.innerText);
 }
